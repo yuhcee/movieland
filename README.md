@@ -1,9 +1,10 @@
 # Movie Mania
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-A simple display of movies using **OMDBAPI**:
+A simple display of movies using the **OMDBAPI**:
  *features*
   - Search movie
+
+  Live App : [Infalliable Movie Mania](https://infallible-movie-mania.netlify.app/)
 
 In the project directory, you can run:
 
