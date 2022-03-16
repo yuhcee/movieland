@@ -22,7 +22,7 @@ const Movies = () => {
 
     return (
         <>
-            <h1> Movie Land </h1>
+            <h1> Movie Mania </h1>
             <div className="search">
                 <input placeholder="Search for movies" value={searchTerm} onChange={handleChange} />
                 <img src={SearchIcon} alt="Search" onClick={() => handleClick(searchTerm)} />
